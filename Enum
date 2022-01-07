@@ -1,0 +1,11 @@
+namespace DIO.Documentarios
+{
+	public enum Genero
+	{
+		Historia = 1,
+		Direito = 2,
+		Biografias = 3,
+		Esporte = 4,
+		Investigação = 5
+    }
+}
